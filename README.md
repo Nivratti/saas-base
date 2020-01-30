@@ -186,7 +186,7 @@ python -m pip install --upgrade pip
 
 3. Move back to the folder where your project is. Install webpack/JavaScript dependencies:
 ```
-npm install
+npm install --verbose
 ```
 
 4. Build the javascript code and styles:
